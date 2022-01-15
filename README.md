@@ -1,1 +1,1 @@
-# paint
+# Dit is onze paint applicatie.
